@@ -1,0 +1,2 @@
+Leaflet map does not show up properly. Partially grey. (invalidate map)	
+https://stackoverflow.com/questions/39685129/leaflet-map-does-not-show-up-properly-partially-grey
